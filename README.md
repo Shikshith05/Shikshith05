@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Shikshith
 
-<!--
-**Shikshith05/Shikshith05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AI & ML) student @ PES University  
+💡 Exploring **DSA, AI/ML, and full-stack projects**  
+🚀 Passionate about coding, problem-solving, and hackathons  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Programming: C, Python  
+- Tools: Git, GitHub  
+- Areas of Interest: Data Structures & Algorithms, AI/ML  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- [Inventory Management System](https://github.com/Shikshith05/Inventory-managment-2nd-sem-) - C-based stock management system  
+- [Calculator (Tkinter)](https://github.com/Shikshith05/caluclator-using-python-sem1) - Python GUI calculator  
+
+## 🌱 Learning Goals
+- Master DSA  
+- Work on AI/ML projects  
+- Participate in hackathons
