@@ -14,7 +14,7 @@ Passionate about coding, problem-solving, and hackathons
 - [Calculator (Tkinter)](https://github.com/Shikshith05/caluclator-using-python-sem1) - Python GUI calculator
 - Working on great new projects...
 
-## 🌱 Learning Goals
+## Learning Goals
 - Master DSA  
 - Work on AI/ML projects  
 
