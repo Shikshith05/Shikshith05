@@ -1,20 +1,32 @@
-# Hi there , I'm Shikshith
+# Hi, I'm Shikshith
 
-CSE (AI & ML) student @ PES University  
-Exploring **DSA, AI/ML, and full-stack projects**  
-Passionate about coding, problem-solving, and hackathons  
+CSE (AI & ML) student at PES University  
+Interested in Data Structures & Algorithms, AI/ML, and building impactful software projects.  
+Actively exploring open-source contributions and hackathons.
 
-## Skills
-- Programming: C, Python ,Tensorflow
+---
+
+## Technical Skills
+- Programming Languages: C, Python  
+- AI / ML: scikit learn
+- Core CS: Data Structures and Algorithms  
 - Tools: Git, GitHub  
-- Areas of Interest: Data Structures & Algorithms, AI/ML  
 
-##  Projects
-- [Inventory Management System](https://github.com/Shikshith05/Inventory-managment-2nd-sem-) - C-based stock management system  
-- [Calculator (Tkinter)](https://github.com/Shikshith05/caluclator-using-python-sem1) - Python GUI calculator
-- Working on great new projects...
+---
 
-## Learning Goals
-- Master DSA  
-- Work on AI/ML projects  
+## Selected Projects
+- **Impact Echo**  
+  A project focused on analyzing and improving real-world impact through data-driven insights.  
+  Repository: https://github.com/Shikshith05/Impact-Echo
+
+- **OpenAudit**  
+  An auditing and transparency-oriented project designed to improve accountability and analysis.  
+  Repository: https://github.com/Shikshith05/OpenAudit
+
+---
+
+## learning goals
+- Strengthening problem-solving skills through DSA  
+- Building meaningful AI/ML-based projects  
+- Contributing to open-source projects via pull requests  
 
