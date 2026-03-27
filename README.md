@@ -15,6 +15,10 @@ Actively exploring open-source contributions and hackathons.
 ---
 
 ## Selected Projects
+- **Supply Chain Intelligence Platform**  
+  A real-time, data-driven supply chain system built during the Epoch Datathon (Top 15/100+ teams), integrating live APIs to handle dynamic disruptions such as weather and global events.  
+  Repository: https://github.com/Shikshith05/SupplyChain-Intelligence-Platform
+
 - **Impact Echo**  
   A project focused on analyzing and improving real-world impact through data-driven insights.  
   Repository: https://github.com/Shikshith05/Impact-Echo
@@ -29,4 +33,3 @@ Actively exploring open-source contributions and hackathons.
 - Strengthening problem-solving skills through DSA  
 - Building meaningful AI/ML-based projects  
 - Contributing to open-source projects via pull requests  
-
